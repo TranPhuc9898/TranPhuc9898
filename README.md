@@ -29,21 +29,7 @@
  
 - 🛸 I've recently completed <a href="https://edu.200lab.io/khoa-hoc/khoa-hoc-react-native-food-delivery">React Native Thinking Advanced Course and Development</a>
 - 🎓 I'm studying Software Development at Hoa Sen University, Sài Gòn. I'm expecting to graduate in 2022.
-
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=bornmay&&show_icons=true&theme=radical"/>
-  </a>
-
-</p>
-
-<br />
-
 ### -👨🏻‍💻 Languages and Tools...
-
-
-
-<p>&nbsp;</p>
 <p align="center">
    <div>
 <p align="center">
